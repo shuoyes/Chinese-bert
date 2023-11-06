@@ -1,0 +1,9 @@
+*.ipynb
+.gitconfig
+.ipynb_checkpoints/
+*.csv
+__pycache__/
+model_save/
+Training_log/
+.idea/
+bert_models/
